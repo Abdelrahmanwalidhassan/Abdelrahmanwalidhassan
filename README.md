@@ -13,7 +13,7 @@ I'm on a journey to craft beautiful software solutions and delve into the realms
 - ⚡ Fun fact: I can solve a Rubik's cube in under a minute! -->
 ## GitHub Stats & Top Languages
 ![Abdelrahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelrahmanwalidhassan&show_icons=true&rank_icon=github&include_all_commits=true&hide=issues&theme=dark) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahmanwalidhassan&layout=compact&theme=dark)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahmanwalidhassan&layout=compact&theme=dark) -->
 
 ## Wakatime Stats
   [![wakatime](https://wakatime.com/badge/user/018cb5f0-87b6-47f3-8a70-b3113c0d211f.svg)](https://wakatime.com/@018cb5f0-87b6-47f3-8a70-b3113c0d211f)
