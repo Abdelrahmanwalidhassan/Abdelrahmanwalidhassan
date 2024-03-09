@@ -11,7 +11,7 @@ I'm on a journey to craft beautiful software solutions and delve into the realms
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/abdelrahmanwalidhassan/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can solve a Rubik's cube in under a minute! -->
-## GitHub Stats & Top Languages
+## GitHub Stats
 ![Abdelrahman's GitHub stats](https://github-readme-stats-0z19.onrender.com/?username=Abdelrahmanwalidhassan&show_icons=true&rank_icon=github&include_all_commits=true&hide=issues&theme=dark) 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahmanwalidhassan&layout=compact&theme=dark) -->
 
