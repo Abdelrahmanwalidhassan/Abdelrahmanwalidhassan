@@ -13,8 +13,8 @@ I'm on a journey to craft beautiful software solutions and delve into the realms
 - ⚡ Fun fact: I can solve a Rubik's cube in under a minute! -->
 ## GitHub Stats
 <div style="display: flex; justify-content: center;">
-    <img alt="Abdelrahman's GitHub stats" src="https://github-stats.awhaw.xyz//?username=Abdelrahmanwalidhassan&show_icons=true&rank_icon=github&include_all_commits=true&hide=issues&theme=dark&line_height=24" />
-    <img alt="Top Langs" src="https://github-stats.awhaw.xyz//top-langs/?username=Abdelrahmanwalidhassan&layout=compact&theme=dark" />
+    <img alt="Abdelrahman's GitHub stats" src="https://github-stats.awhaw.xyz/?username=Abdelrahmanwalidhassan&show_icons=true&rank_icon=github&include_all_commits=true&hide=issues&theme=dark&line_height=24" />
+    <img alt="Top Langs" src="https://github-stats.awhaw.xyz/top-langs/?username=Abdelrahmanwalidhassan&layout=compact&theme=dark" />
 </div>
 <!-- ![Abdelrahman's GitHub stats](https://github-readme-stats-0z19.onrender.com/?username=Abdelrahmanwalidhassan&show_icons=true&rank_icon=github&include_all_commits=true&hide=issues&theme=dark) 
 ![Top Langs](https://github-readme-stats-0z19.onrender.com/top-langs/?username=Abdelrahmanwalidhassan&layout=compact&theme=dark) -->
