@@ -9,8 +9,7 @@ I'm on a journey to craft beautiful software solutions and delve into the realms
 - 💡 Seeking opportunities to collaborate on innovative projects
 - 💬 Let's discuss tech, philosophy, or anything in between!
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/abdelrahmanwalidhassan/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can solve a Rubik's cube in under a minute! -->
+- 😄 Pronouns: He/Him -->
 ## GitHub Stats
 <div style="display: flex; justify-content: center;">
     <img alt="Abdelrahman's GitHub stats" src="https://github-stats.awhaw.xyz/?username=Abdelrahmanwalidhassan&show_icons=true&rank_icon=github&include_all_commits=true&hide=issues&theme=dark&line_height=24" />
