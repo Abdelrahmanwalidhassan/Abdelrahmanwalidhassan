@@ -18,8 +18,8 @@ I'm on a journey to craft beautiful software solutions and delve into the realms
 <!-- ![Abdelrahman's GitHub stats](https://github-readme-stats-0z19.onrender.com/?username=Abdelrahmanwalidhassan&show_icons=true&rank_icon=github&include_all_commits=true&hide=issues&theme=dark) 
 ![Top Langs](https://github-readme-stats-0z19.onrender.com/top-langs/?username=Abdelrahmanwalidhassan&layout=compact&theme=dark) -->
 
-## Wakatime Stats
-  [![wakatime](https://wakatime.com/badge/user/018cb5f0-87b6-47f3-8a70-b3113c0d211f.svg)](https://wakatime.com/@018cb5f0-87b6-47f3-8a70-b3113c0d211f)
+<!-- ## Wakatime Stats -->
+  <!-- [![wakatime](https://wakatime.com/badge/user/018cb5f0-87b6-47f3-8a70-b3113c0d211f.svg)](https://wakatime.com/@018cb5f0-87b6-47f3-8a70-b3113c0d211f) -->
 
 ## Let's Connect
 - https://awhaw.xyz
