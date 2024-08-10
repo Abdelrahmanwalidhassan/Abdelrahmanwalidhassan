@@ -1,6 +1,6 @@
 # Hi there, I'm Abdelrahman Walid Hassan 👋
 
-## About Me
+<!-- ## About Me -->
 I'm a backend software engineer with expertise in TypeScript, JavaScript (with Node.js), and C++. I’m passionate about building robust backend systems and exploring new technologies. In addition to my professional work, I’m an avid bodybuilder.
 
 ## Skills
