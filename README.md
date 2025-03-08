@@ -12,7 +12,7 @@ I'm a backend software engineer with expertise in TypeScript, JavaScript (with N
 - [**DevXor**](https://github.com/DevXor-Team): A developers community in discord.
 
 ## Get in Touch
-Feel free to connect with me through my [profile](https://awhaw.xyz/).
+Feel free to connect with me through my [profile](https://www.aw7.me/).
 
 ## GitHub Stats
 <div style="display: flex; justify-content: center;">
