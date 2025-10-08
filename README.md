@@ -16,11 +16,6 @@ Feel free to connect with me through my [profile](https://www.aw7.me/).
 
 ## GitHub Stats
 <div style="display: flex; justify-content: center;">
-    <img alt="Abdelrahman's GitHub stats" src="https://github-stats.aw7.me/?username=Abdelrahmanwalidhassan&show_icons=true&rank_icon=github&include_all_commits=true&hide=issues&theme=dark&line_height=24" />
-    <img alt="Top Langs" src="https://github-stats.aw7.me/top-langs/?username=Abdelrahmanwalidhassan&layout=compact&theme=dark" />
-
-[Abdelrahman's GitHub stats](https://github-stats.aw7.me/?username=Abdelrahmanwalidhassan&show_icons=true&rank_icon=github&include_all_commits=true&hide=issues&theme=dark&line_height=24)
-
+    <img alt="Abdelrahman's GitHub stats" src="https://github-stats.aw7.me/api/?username=Abdelrahmanwalidhassan&show_icons=true&rank_icon=github&include_all_commits=true&hide=issues&theme=dark&line_height=24" />
+    <img alt="Top Langs" src="https://github-stats.aw7.me/api/top-langs/?username=Abdelrahmanwalidhassan&layout=compact&theme=dark" />
 </div>
-
-[Abdelrahman's GitHub stats](https://github-stats.aw7.me/?username=Abdelrahmanwalidhassan&show_icons=true&rank_icon=github&include_all_commits=true&hide=issues&theme=dark&line_height=24)
